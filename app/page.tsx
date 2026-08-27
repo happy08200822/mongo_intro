@@ -15,7 +15,7 @@ const fruits = [
   },
   {
     img: "mango",
-    name: "芒果",
+    name: "哈囉芒果",
     en: "Mango",
     desc: "熱帶水果之王，果肉細滑香甜，夏天消暑首選。",
     price: 150,
